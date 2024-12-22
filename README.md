@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Kiperpank2007
-- 👀 I’m interested in как создать новыйсайт на GitHub
-- 🌱 I’m currently learning создать какой-нибудь сайт
-- 💞️ I’m looking to collaborate on пока незнаю
-- 📫 How to reach me по номеру телефона
-- 😄 Pronouns: нет
-- ⚡ Fun fact: Когда я не понимаю я понимаю , а когда  понимаю,то не понимаю...
+- 👋 Меня зовут @Kiperpank2007
+- 👀 Меня интересует как создать новый сайт на GitHub
+- 🌱Я сейчас учусь создать какой-нибудь сайт
+- 💞️Я ищу сотрудничество с моим другом Колей
+- 📫Как связаться со мной по номеру телефона
+- 😄Язык:Я Русский!
+- ⚡Забавный факт: Когда я не понимаю я понимаю , а когда  понимаю,то не понимаю...
 
 <!---
 Kiperpank2007/Kiperpank2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
